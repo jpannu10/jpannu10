@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular.
 - 📫 How to reach me jpannu10@gmail.com
 
-<h1> Jaskaran Singh Pannu  </h1>
+<h1> Jaskaran Singh </h1>
 
 <!---
 jpannu10/jpannu10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
